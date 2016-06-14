@@ -11,7 +11,6 @@ rm(list=ls(all=TRUE))
 source(file.path("kdial_library.R"))
 
 ########################
-
 # Dependencies for scripts
 library(Biobase)
 library(GEOquery)
